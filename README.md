@@ -1,7 +1,8 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-# Name: Deepak S
-# Register Number: 212224230053
+### Name: Deepak S
+### Register Number: 212224230053
+#
 
 # Algorithm or Steps Involved:
 <ol>
